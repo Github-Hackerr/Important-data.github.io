@@ -1,5 +1,5 @@
 name: Jekyll site CI
-
+theme: jekyll-theme-minimal
 on:
   push:
     branches: [ "main" ]
